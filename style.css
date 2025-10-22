@@ -1,0 +1,43 @@
+body {
+  background-color: #b7cfb2; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+
+h1, h2, h3 {
+  color: #000266; 
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-bottom: 10px;
+}
+
+
+p, ol, ul {
+  margin-bottom: 20px;
+}
+
+
+button {
+  background-color: #52c952;
+  color: rgb(216, 191, 191);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #da6c2d;
+}
+
+a {
+  color: #2267b1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #f700ff;
+  text-decoration: underline;
+}
